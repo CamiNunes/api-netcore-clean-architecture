@@ -1,0 +1,8 @@
+E:\DevFreela\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Application.deps.json
+E:\DevFreela\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Application.dll
+E:\DevFreela\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Application.pdb
+E:\DevFreela\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.AssemblyInfoInputs.cache
+E:\DevFreela\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.AssemblyInfo.cs
+E:\DevFreela\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.csproj.CoreCompileInputs.cache
+E:\DevFreela\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.dll
+E:\DevFreela\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.pdb

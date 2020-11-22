@@ -1,0 +1,9 @@
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.deps.json
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.dll
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.pdb
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.csprojAssemblyReference.cache
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.AssemblyInfoInputs.cache
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.AssemblyInfo.cs
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.dll
+E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.pdb
