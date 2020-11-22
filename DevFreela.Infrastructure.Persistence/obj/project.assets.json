@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevFreela\\DevFreela\\DevFreela.Infrastructure.Persistence\\DevFreela.Infrastructure.Persistence.csproj",
+      "projectUniqueName": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Infrastructure.Persistence\\DevFreela.Infrastructure.Persistence.csproj",
       "projectName": "DevFreela.Infrastructure.Persistence",
-      "projectPath": "E:\\DevFreela\\DevFreela\\DevFreela.Infrastructure.Persistence\\DevFreela.Infrastructure.Persistence.csproj",
+      "projectPath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Infrastructure.Persistence\\DevFreela.Infrastructure.Persistence.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "E:\\DevFreela\\DevFreela\\DevFreela.Infrastructure.Persistence\\obj\\",
+      "outputPath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Infrastructure.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

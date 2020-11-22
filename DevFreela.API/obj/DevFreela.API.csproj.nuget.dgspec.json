@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DevFreela\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {}
+    "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.API\\DevFreela.API.csproj": {}
   },
   "projects": {
-    "E:\\DevFreela\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {
+    "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.API\\DevFreela.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevFreela\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectUniqueName": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.API\\DevFreela.API.csproj",
         "projectName": "DevFreela.API",
-        "projectPath": "E:\\DevFreela\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectPath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.API\\DevFreela.API.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "E:\\DevFreela\\DevFreela\\DevFreela.API\\obj\\",
+        "outputPath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

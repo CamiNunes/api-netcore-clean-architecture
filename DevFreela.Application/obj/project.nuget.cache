@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9bCmGrmLh4UqANKvx/an1pOWQF+/eiHs4uMf+LaFVNE46fib0d4B/xtiW0DH267TXf19fcGKyaD6qeTrfdlCQ==",
+  "dgSpecHash": "j72mwP2BusOKVwkTlYtejnFpNmsL7q1OaFKn2y8UvKjiFdLu7SPuREcb5LSMB6Ozsnc1Tfjw9pRrVr32pz7jxw==",
   "success": true,
-  "projectFilePath": "E:\\DevFreela\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+  "projectFilePath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

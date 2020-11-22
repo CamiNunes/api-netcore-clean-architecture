@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/6c5wnzZ/DRQg/P/NiPiYDKl2cy8edSeX43Dn4/0rM/AXEw6Znjw/gSGfaI8V/Ata/bDVICLSm+WgcUeQIeDvA==",
+  "dgSpecHash": "G1UCHlJ51lP68hlidQLEgTZnzcPi9KQhxezLxub2Jd3ZWOUJS8E+x96bb4M5eg0j4Gx45+XymegosPGugIye5g==",
   "success": true,
-  "projectFilePath": "E:\\DevFreela\\DevFreela\\DevFreela.Infrastructure.Persistence\\DevFreela.Infrastructure.Persistence.csproj",
+  "projectFilePath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Infrastructure.Persistence\\DevFreela.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

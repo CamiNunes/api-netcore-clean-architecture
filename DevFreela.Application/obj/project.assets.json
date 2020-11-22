@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevFreela\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "projectUniqueName": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Application\\DevFreela.Application.csproj",
       "projectName": "DevFreela.Application",
-      "projectPath": "E:\\DevFreela\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "projectPath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Application\\DevFreela.Application.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "E:\\DevFreela\\DevFreela\\DevFreela.Application\\obj\\",
+      "outputPath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
