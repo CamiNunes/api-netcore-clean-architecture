@@ -6,3 +6,11 @@ E:\DevFreela\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.Ass
 E:\DevFreela\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.csproj.CoreCompileInputs.cache
 E:\DevFreela\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.dll
 E:\DevFreela\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.pdb
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\bin\Debug\netcoreapp3.1\DevFreela.Core.deps.json
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\bin\Debug\netcoreapp3.1\DevFreela.Core.dll
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\bin\Debug\netcoreapp3.1\DevFreela.Core.pdb
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.AssemblyInfoInputs.cache
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.AssemblyInfo.cs
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.csproj.CoreCompileInputs.cache
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.dll
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.pdb

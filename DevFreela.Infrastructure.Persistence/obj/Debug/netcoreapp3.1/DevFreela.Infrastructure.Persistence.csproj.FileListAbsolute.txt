@@ -7,3 +7,11 @@ E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp
 E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
 E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.dll
 E:\DevFreela\DevFreela\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.pdb
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.deps.json
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.dll
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.pdb
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.AssemblyInfoInputs.cache
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.AssemblyInfo.cs
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.dll
+R:\dese.git\api-netcore-clean-architecture\DevFreela.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.Persistence.pdb
