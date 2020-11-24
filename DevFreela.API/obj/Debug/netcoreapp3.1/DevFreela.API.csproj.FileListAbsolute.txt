@@ -26,7 +26,6 @@ R:\dese.git\api-netcore-clean-architecture\DevFreela.API\bin\Debug\netcoreapp3.1
 R:\dese.git\api-netcore-clean-architecture\DevFreela.API\bin\Debug\netcoreapp3.1\DevFreela.API.runtimeconfig.dev.json
 R:\dese.git\api-netcore-clean-architecture\DevFreela.API\bin\Debug\netcoreapp3.1\DevFreela.API.dll
 R:\dese.git\api-netcore-clean-architecture\DevFreela.API\bin\Debug\netcoreapp3.1\DevFreela.API.pdb
-R:\dese.git\api-netcore-clean-architecture\DevFreela.API\obj\Debug\netcoreapp3.1\DevFreela.API.csprojAssemblyReference.cache
 R:\dese.git\api-netcore-clean-architecture\DevFreela.API\obj\Debug\netcoreapp3.1\DevFreela.API.AssemblyInfoInputs.cache
 R:\dese.git\api-netcore-clean-architecture\DevFreela.API\obj\Debug\netcoreapp3.1\DevFreela.API.AssemblyInfo.cs
 R:\dese.git\api-netcore-clean-architecture\DevFreela.API\obj\Debug\netcoreapp3.1\DevFreela.API.csproj.CoreCompileInputs.cache

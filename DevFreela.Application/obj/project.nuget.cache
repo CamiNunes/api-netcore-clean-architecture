@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j72mwP2BusOKVwkTlYtejnFpNmsL7q1OaFKn2y8UvKjiFdLu7SPuREcb5LSMB6Ozsnc1Tfjw9pRrVr32pz7jxw==",
+  "dgSpecHash": "1ejrEJAE2DxWkTZ4r4qMcyx5r1E4T943SQ+RYyV/M41lCHbq4AKg/XCaurYkkiAWCzntZcR1Ozvbdmg/GsVIbw==",
   "success": true,
   "projectFilePath": "R:\\dese.git\\api-netcore-clean-architecture\\DevFreela.Application\\DevFreela.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
